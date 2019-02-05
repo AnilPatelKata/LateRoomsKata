@@ -62,7 +62,6 @@ C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\bin\Syste
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\bin\System.Web.WebPages.Razor.xml
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\obj\Debug\LateRoomsKataCheckout.csprojAssemblyReference.cache
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\obj\Debug\LateRoomsKataCheckout.csproj.CoreCompileInputs.cache
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\obj\Debug\LateRoomsKataCheckout.csproj.CopyComplete
 C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout\obj\Debug\LateRoomsKataCheckout.dll

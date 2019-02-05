@@ -9,6 +9,8 @@ namespace LateRoomsKataCheckout
 {
     public interface ICheckout
     {
-        
+        ICheckout scanPineapple(String scan);
+        decimal Total();
+        char[] scannedPineapples { get; }
     }
 }

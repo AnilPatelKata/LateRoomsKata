@@ -5,9 +5,10 @@ using System.Web;
 
 namespace LateRoomsKataCheckout.Models
 {
-    public class Sku:ISku
+    public class ProductSku:IProductSku
     {
-       
+        public char ProductProductSku { get; set; }
+        public int Price { get; set; }
 
 
     }

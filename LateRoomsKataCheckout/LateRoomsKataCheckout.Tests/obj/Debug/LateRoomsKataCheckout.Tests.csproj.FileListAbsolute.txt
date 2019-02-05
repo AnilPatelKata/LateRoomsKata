@@ -1,0 +1,17 @@
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\LateRoomsKataCheckout.Tests.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\LateRoomsKataCheckout.Tests.pdb
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\LateRoomsKataCheckout.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\LateRoomsKataCheckout.pdb
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\LateRoomsKataCheckout.dll.config
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\obj\Debug\LateRoomsKataCheckout.Tests.csprojAssemblyReference.cache
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\obj\Debug\LateRoomsKataCheckout.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\obj\Debug\LateRoomsKataCheckout.Tests.csproj.CopyComplete
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\obj\Debug\LateRoomsKataCheckout.Tests.dll
+C:\Users\Anil\source\repos\LateRoomsKataCheckout\LateRoomsKataCheckout.Tests\obj\Debug\LateRoomsKataCheckout.Tests.pdb

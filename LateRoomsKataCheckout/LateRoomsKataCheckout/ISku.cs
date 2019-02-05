@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace LateRoomsKataCheckout
 {
-    public interface ISku
+    public interface IProductSku
     {
-        
+        char ProductProductSku { get; set; }
+        int Price { get; set; }
     }
 }
